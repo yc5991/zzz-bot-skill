@@ -1,0 +1,7 @@
+﻿_work/
+jieba.cache
+__pycache__/
+*.pyc
+rag/index/chunks.jsonl
+
+*.zip

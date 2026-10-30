@@ -1,0 +1,1073 @@
+{
+ "characters": [
+  {
+   "canonical": "11号",
+   "full": "「11号」",
+   "english": "Soldier 11",
+   "faction": "防卫军·奥波勒斯小队",
+   "aliases": [
+    "「11号」"
+   ],
+   "pinyin": "11 hao",
+   "type": "character"
+  },
+  {
+   "canonical": "席德",
+   "full": "「席德」",
+   "english": "Seed",
+   "faction": "防卫军·奥波勒斯小队",
+   "aliases": [
+    "「席德」"
+   ],
+   "pinyin": "xi de",
+   "type": "character"
+  },
+  {
+   "canonical": "扳机",
+   "full": "「扳机」",
+   "english": "Trigger",
+   "faction": "防卫军·奥波勒斯小队",
+   "aliases": [
+    "「扳机」",
+    "曾用过"
+   ],
+   "pinyin": "ban ji",
+   "type": "character"
+  },
+  {
+   "canonical": "丽娜",
+   "full": "亚历山德丽娜·莎芭丝缇安",
+   "english": "Alexandrina Sebastian",
+   "faction": "维多利亚家政",
+   "aliases": [
+    "亚历山德丽娜",
+    "亚历山德丽娜·莎芭丝缇安",
+    "女仆长"
+   ],
+   "pinyin": "li na",
+   "type": "character"
+  },
+  {
+   "canonical": "仪玄",
+   "full": "仪玄",
+   "english": "Yixuan",
+   "faction": "云岿山",
+   "aliases": [
+    "师父"
+   ],
+   "pinyin": "yi xuan",
+   "type": "character"
+  },
+  {
+   "canonical": "伊德海莉",
+   "full": "伊德海莉·墨菲",
+   "english": "Yidhari Murphy",
+   "faction": "怪啖屋",
+   "aliases": [
+    "伊德海莉·墨菲",
+    "章鱼"
+   ],
+   "pinyin": "yi de hai li",
+   "type": "character"
+  },
+  {
+   "canonical": "伊芙琳",
+   "full": "伊芙琳·舒瓦利耶",
+   "english": "Evelyn Chevalier",
+   "faction": "天琴座",
+   "aliases": [
+    "伊芙琳·舒瓦利耶",
+    "伊芙耀嘉音",
+    "组织」代号"
+   ],
+   "pinyin": "yi fu lin",
+   "type": "character"
+  },
+  {
+   "canonical": "佩洛伊斯",
+   "full": "佩洛伊斯",
+   "english": "Pyrois",
+   "faction": "法厄同",
+   "aliases": [
+    "佩佩"
+   ],
+   "pinyin": "pei luo yi si",
+   "type": "character"
+  },
+  {
+   "canonical": "克拉蕾",
+   "full": "克拉蕾·弗林特",
+   "english": "Claret Flint",
+   "faction": "罗斯凯利法·弗林特工坊",
+   "aliases": [
+    "克拉蕾·弗林特"
+   ],
+   "pinyin": "ke la lei",
+   "type": "character"
+  },
+  {
+   "canonical": "凯撒",
+   "full": "凯撒·金",
+   "english": "Caesar King",
+   "faction": "卡吕冬之子",
+   "aliases": [
+    "凯撒·金",
+    "老板莱特",
+    "野猪露西"
+   ],
+   "pinyin": "kai sa",
+   "type": "character"
+  },
+  {
+   "canonical": "千夏",
+   "full": "千夏",
+   "english": "Sunna",
+   "faction": "妄想天使",
+   "aliases": [],
+   "pinyin": "qian xia",
+   "type": "character"
+  },
+  {
+   "canonical": "南宫羽",
+   "full": "南宫羽",
+   "english": "Nangong Yu",
+   "faction": "妄想天使",
+   "aliases": [
+    "南宫",
+    "队长"
+   ],
+   "pinyin": "nan gong yu",
+   "type": "character"
+  },
+  {
+   "canonical": "卢西娅",
+   "full": "卢西娅·艾洛温",
+   "english": "Lucia Elowen",
+   "faction": "怪啖屋",
+   "aliases": [
+    "卢西娅·艾洛温",
+    "夜魔使者",
+    "小羊"
+   ],
+   "pinyin": "lu xi ya",
+   "type": "character"
+  },
+  {
+   "canonical": "可琳",
+   "full": "可琳·威克斯",
+   "english": "Corin Wickes",
+   "faction": "维多利亚家政",
+   "aliases": [
+    "可琳·威克斯",
+    "女仆"
+   ],
+   "pinyin": "ke lin",
+   "type": "character"
+  },
+  {
+   "canonical": "叶瞬光",
+   "full": "叶瞬光",
+   "english": "Ye Shunguang",
+   "faction": "云岿山",
+   "aliases": [
+    "小光"
+   ],
+   "pinyin": "ye shun guang",
+   "type": "character"
+  },
+  {
+   "canonical": "哲",
+   "full": "",
+   "english": "",
+   "faction": "",
+   "aliases": [],
+   "pinyin": "zhe",
+   "type": "character"
+  },
+  {
+   "canonical": "奥菲丝&「鬼火",
+   "full": "奥菲丝·马格努森 &「鬼火」",
+   "english": "Orphie Magnusson & Magus",
+   "faction": "防卫军·奥波勒斯小队",
+   "aliases": [
+    "奥菲丝",
+    "奥菲丝·马格努森 &「鬼火」"
+   ],
+   "pinyin": "ao fei si &「 gui huo",
+   "type": "character"
+  },
+  {
+   "canonical": "妮可",
+   "full": "妮可·德玛拉",
+   "english": "Nicole Demara",
+   "faction": "狡兔屋",
+   "aliases": [
+    "妮可·德玛拉",
+    "老大比利"
+   ],
+   "pinyin": "ni ke",
+   "type": "character"
+  },
+  {
+   "canonical": "安东",
+   "full": "安东·伊万诺夫",
+   "english": "Anton Ivanov",
+   "faction": "白祇重工",
+   "aliases": [
+    "安东·伊万诺夫"
+   ],
+   "pinyin": "an dong",
+   "type": "character"
+  },
+  {
+   "canonical": "安比",
+   "full": "安比·德玛拉",
+   "english": "Anby Demara",
+   "faction": "狡兔屋",
+   "aliases": [
+    "噔噔噔",
+    "安比·德玛拉",
+    "看板娘"
+   ],
+   "pinyin": "an bi",
+   "type": "character"
+  },
+  {
+   "canonical": "希希芙",
+   "full": "希希芙",
+   "english": "Cissia",
+   "faction": "治安局·都市秩序部",
+   "aliases": [
+    "蛇蛇"
+   ],
+   "pinyin": "xi xi fu",
+   "type": "character"
+  },
+  {
+   "canonical": "希格莉德",
+   "full": "希格莉德·德拉叙尔",
+   "english": "Sigrid de L'Azur",
+   "faction": "罗斯凯利法·空域巡戍局",
+   "aliases": [
+    "希格莉德·德拉叙尔",
+    "马娘"
+   ],
+   "pinyin": "xi ge li de",
+   "type": "character"
+  },
+  {
+   "canonical": "悠真",
+   "full": "浅羽悠真",
+   "english": "Asaba Harumasa",
+   "faction": "对空六课",
+   "aliases": [
+    "悠真真",
+    "摸鱼达人",
+    "浅羽悠真"
+   ],
+   "pinyin": "you zhen",
+   "type": "character"
+  },
+  {
+   "canonical": "星徽·比利",
+   "full": "星徽·比利·奇德",
+   "english": "Starlight - Billy",
+   "faction": "狡兔屋",
+   "aliases": [
+    "星徽",
+    "星徽·比利·奇德"
+   ],
+   "pinyin": "xing hui · bi li",
+   "type": "character"
+  },
+  {
+   "canonical": "星见雅",
+   "full": "星见雅",
+   "english": "Hoshimi Miyabi",
+   "faction": "对空六课",
+   "aliases": [
+    "头儿苍角",
+    "武痴狐狸妮可",
+    "浅羽悠真",
+    "课长月城柳",
+    "雅小姐"
+   ],
+   "pinyin": "xing jian ya",
+   "type": "character"
+  },
+  {
+   "canonical": "普罗米娅",
+   "full": "普罗米娅",
+   "english": "Promeia",
+   "faction": "坎卜斯黑枝",
+   "aliases": [],
+   "pinyin": "pu luo mi ya",
+   "type": "character"
+  },
+  {
+   "canonical": "本",
+   "full": "本·比格",
+   "english": "Ben Bigger",
+   "faction": "白祇重工",
+   "aliases": [
+    "大本",
+    "本·比格"
+   ],
+   "pinyin": "ben",
+   "type": "character"
+  },
+  {
+   "canonical": "朱鸢",
+   "full": "朱鸢",
+   "english": "Zhu Yuan",
+   "faction": "治安局·刑侦特勤组",
+   "aliases": [],
+   "pinyin": "zhu yuan",
+   "type": "character"
+  },
+  {
+   "canonical": "柏妮思",
+   "full": "柏妮思·怀特",
+   "english": "Burnice White",
+   "faction": "卡吕冬之子",
+   "aliases": [
+    "柏妮思·怀特"
+   ],
+   "pinyin": "bai ni si",
+   "type": "character"
+  },
+  {
+   "canonical": "柚叶",
+   "full": "浮波柚叶",
+   "english": "Ukinami Yuzuha",
+   "faction": "怪啖屋",
+   "aliases": [
+    "浮波柚叶",
+    "狸猫"
+   ],
+   "pinyin": "you ye",
+   "type": "character"
+  },
+  {
+   "canonical": "柳",
+   "full": "月城柳",
+   "english": "Tsukishiro Yanagi",
+   "faction": "对空六课",
+   "aliases": [
+    "学霸妮可",
+    "月城柳",
+    "柳姐苍角",
+    "班长小姐"
+   ],
+   "pinyin": "liu",
+   "type": "character"
+  },
+  {
+   "canonical": "格莉丝",
+   "full": "格莉丝·霍华德",
+   "english": "Grace Howard",
+   "faction": "白祇重工",
+   "aliases": [
+    "格莉丝·霍华德",
+    "铁魔女"
+   ],
+   "pinyin": "ge li si",
+   "type": "character"
+  },
+  {
+   "canonical": "橘福福",
+   "full": "橘福福",
+   "english": "Ju Fufu",
+   "faction": "云岿山",
+   "aliases": [
+    "大师姐",
+    "福福"
+   ],
+   "pinyin": "ju fu fu",
+   "type": "character"
+  },
+  {
+   "canonical": "比利",
+   "full": "比利·奇德",
+   "english": "Billy Kid",
+   "faction": "狡兔屋",
+   "aliases": [
+    "星徽骑士",
+    "比利·奇德"
+   ],
+   "pinyin": "bi li",
+   "type": "character"
+  },
+  {
+   "canonical": "波可娜",
+   "full": "波可娜·费雷尼",
+   "english": "Pulchra Fellini",
+   "faction": "卡吕冬之子",
+   "aliases": [
+    "波可娜·费雷尼",
+    "波喵"
+   ],
+   "pinyin": "bo ke na",
+   "type": "character"
+  },
+  {
+   "canonical": "洛克茜",
+   "full": "洛克茜·伊芙莉塔·普莱斯",
+   "english": "Roxy Ifrita Pryce",
+   "faction": "罗斯凯利法·弗林特工坊",
+   "aliases": [
+    "洛克茜·伊芙莉塔·普莱斯"
+   ],
+   "pinyin": "luo ke qian",
+   "type": "character"
+  },
+  {
+   "canonical": "派派",
+   "full": "派派·韦尔",
+   "english": "Piper Wheel",
+   "faction": "卡吕冬之子",
+   "aliases": [
+    "派派·韦尔",
+    "这个人自称"
+   ],
+   "pinyin": "pai pai",
+   "type": "character"
+  },
+  {
+   "canonical": "派派·韦尔",
+   "full": "派派·韦尔",
+   "english": "Piper Wheel",
+   "faction": "卡吕冬之子",
+   "aliases": [
+    "这个人自称"
+   ],
+   "pinyin": "pai pai · wei er",
+   "type": "character"
+  },
+  {
+   "canonical": "潘引壶",
+   "full": "潘引壶",
+   "english": "Pan Yinhu",
+   "faction": "云岿山",
+   "aliases": [
+    "熊猫"
+   ],
+   "pinyin": "pan yin hu",
+   "type": "character"
+  },
+  {
+   "canonical": "照",
+   "full": "照",
+   "english": "Zhao",
+   "faction": "坎卜斯黑枝",
+   "aliases": [
+    "可怕的裁决官",
+    "小照"
+   ],
+   "pinyin": "zhao",
+   "type": "character"
+  },
+  {
+   "canonical": "爱丽丝",
+   "full": "爱丽丝·泰姆菲尔德",
+   "english": "Alice Thymefield",
+   "faction": "怪啖屋",
+   "aliases": [
+    "对称狂魔",
+    "热浪兔兔",
+    "爱丽丝·泰姆菲尔德",
+    "胆小胡萝卜"
+   ],
+   "pinyin": "ai li si",
+   "type": "character"
+  },
+  {
+   "canonical": "爱芮",
+   "full": "爱芮",
+   "english": "Aria",
+   "faction": "妄想天使",
+   "aliases": [],
+   "pinyin": "ai rui",
+   "type": "character"
+  },
+  {
+   "canonical": "猫又",
+   "full": "猫宫又奈",
+   "english": "Nekomiya Mana",
+   "faction": "狡兔屋",
+   "aliases": [
+    "猫宫又奈"
+   ],
+   "pinyin": "mao you",
+   "type": "character"
+  },
+  {
+   "canonical": "珂蕾妲",
+   "full": "珂蕾妲·贝洛伯格",
+   "english": "Koleda Belobog",
+   "faction": "白祇重工",
+   "aliases": [
+    "小不点",
+    "珂蕾妲·贝洛伯格",
+    "社长"
+   ],
+   "pinyin": "ke lei da",
+   "type": "character"
+  },
+  {
+   "canonical": "琉音",
+   "full": "琉音",
+   "english": "Dialyn",
+   "faction": "坎卜斯黑枝",
+   "aliases": [
+    "客服小刘",
+    "金牌客服"
+   ],
+   "pinyin": "liu yin",
+   "type": "character"
+  },
+  {
+   "canonical": "真斗",
+   "full": "狛野真斗",
+   "english": "Komano Manato",
+   "faction": "怪啖屋",
+   "aliases": [
+    "狛野真斗",
+    "荒魂丸"
+   ],
+   "pinyin": "zhen dou",
+   "type": "character"
+  },
+  {
+   "canonical": "简",
+   "full": "简·杜",
+   "english": "Jane Doe",
+   "faction": "治安局·刑侦特勤组",
+   "aliases": [
+    "简·杜",
+    "鼠鼠"
+   ],
+   "pinyin": "jian",
+   "type": "character"
+  },
+  {
+   "canonical": "维琳娜",
+   "full": "维琳娜·艾嘉德",
+   "english": "Velina Airgid",
+   "faction": "罗斯凯利法·外务筹策局",
+   "aliases": [
+    "天使」大人",
+    "小维",
+    "维琳娜·艾嘉德"
+   ],
+   "pinyin": "wei lin na",
+   "type": "character"
+  },
+  {
+   "canonical": "耀嘉音",
+   "full": "耀嘉音",
+   "english": "Astra Yao",
+   "faction": "天琴座",
+   "aliases": [
+    "大明星",
+    "小姐伊芙琳"
+   ],
+   "pinyin": "yao jia yin",
+   "type": "character"
+  },
+  {
+   "canonical": "般岳",
+   "full": "般岳",
+   "english": "Banyue",
+   "faction": "坎卜斯黑枝",
+   "aliases": [
+    "大狮子",
+    "宗师"
+   ],
+   "pinyin": "ban yue",
+   "type": "character"
+  },
+  {
+   "canonical": "艾莲",
+   "full": "艾莲·乔",
+   "english": "Ellen Joe",
+   "faction": "维多利亚家政",
+   "aliases": [
+    "圆鲨鲨",
+    "艾莲·乔"
+   ],
+   "pinyin": "ai lian",
+   "type": "character"
+  },
+  {
+   "canonical": "苍角",
+   "full": "苍角",
+   "english": "Soukaku",
+   "faction": "对空六课",
+   "aliases": [],
+   "pinyin": "cang jiao",
+   "type": "character"
+  },
+  {
+   "canonical": "莱卡恩",
+   "full": "冯·莱卡恩",
+   "english": "Von Lycaon",
+   "faction": "维多利亚家政",
+   "aliases": [
+    "冯",
+    "冯·莱卡恩",
+    "狼叔",
+    "狼哥"
+   ],
+   "pinyin": "lai ka en",
+   "type": "character"
+  },
+  {
+   "canonical": "莱特",
+   "full": "莱特",
+   "english": "Lighter",
+   "faction": "卡吕冬之子",
+   "aliases": [
+    "常胜冠军"
+   ],
+   "pinyin": "lai te",
+   "type": "character"
+  },
+  {
+   "canonical": "蕾米埃尔",
+   "full": "蕾米埃尔·丹",
+   "english": "Remielle Dan",
+   "faction": "达识结社",
+   "aliases": [
+    "共犯",
+    "坏女人",
+    "蕾米",
+    "蕾米埃尔·丹"
+   ],
+   "pinyin": "lei mi ai er",
+   "type": "character"
+  },
+  {
+   "canonical": "薇薇安",
+   "full": "薇薇安•班希",
+   "english": "Vivian Banshee",
+   "faction": "反舌鸟",
+   "aliases": [
+    "打工皇帝",
+    "薇薇安•班希"
+   ],
+   "pinyin": "wei wei an",
+   "type": "character"
+  },
+  {
+   "canonical": "诺姆",
+   "full": "诺姆·霍洛维尔",
+   "english": "Norma Hollowell",
+   "faction": "罗斯凯利法·外务筹策局",
+   "aliases": [
+    "诺姆·霍洛维尔"
+   ],
+   "pinyin": "nuo mu",
+   "type": "character"
+  },
+  {
+   "canonical": "赛斯",
+   "full": "赛斯·洛威尔",
+   "english": "Seth Lowell",
+   "faction": "治安局·刑侦特勤组",
+   "aliases": [
+    "赛斯·洛威尔"
+   ],
+   "pinyin": "sai si",
+   "type": "character"
+  },
+  {
+   "canonical": "铃",
+   "full": "",
+   "english": "",
+   "faction": "",
+   "aliases": [],
+   "pinyin": "ling",
+   "type": "character"
+  },
+  {
+   "canonical": "雅",
+   "full": "星见雅",
+   "english": "Hoshimi Miyabi",
+   "faction": "对空六课",
+   "aliases": [
+    "头儿苍角",
+    "星见雅",
+    "武痴狐狸妮可",
+    "浅羽悠真",
+    "课长月城柳",
+    "雅小姐"
+   ],
+   "pinyin": "ya",
+   "type": "character"
+  },
+  {
+   "canonical": "雨果",
+   "full": "雨果•维拉德",
+   "english": "Hugo",
+   "faction": "反舌鸟",
+   "aliases": [
+    "雨果•维拉德"
+   ],
+   "pinyin": "yu guo",
+   "type": "character"
+  },
+  {
+   "canonical": "零号·安比",
+   "full": "零号·安比",
+   "english": "Soldier 0 - Anby",
+   "faction": "防卫军·白银小队",
+   "aliases": [
+    "SP安比",
+    "大安比"
+   ],
+   "pinyin": "ling hao · an bi",
+   "type": "character"
+  },
+  {
+   "canonical": "露西",
+   "full": "露西亚娜·奥克希斯·提奥多·德·蒙特夫",
+   "english": "Lucy",
+   "faction": "卡吕冬之子",
+   "aliases": [
+    "大小姐",
+    "露西亚娜",
+    "露西亚娜·奥克希斯·提奥多·德·蒙特夫"
+   ],
+   "pinyin": "lu xi",
+   "type": "character"
+  },
+  {
+   "canonical": "青衣",
+   "full": "青衣",
+   "english": "Qingyi",
+   "faction": "治安局·刑侦特勤组",
+   "aliases": [
+    "前辈朱鸢"
+   ],
+   "pinyin": "qing yi",
+   "type": "character"
+  }
+ ],
+ "factions": [
+  {
+   "canonical": "云岿山",
+   "type": "faction",
+   "pinyin": "yun kui shan",
+   "aliases": []
+  },
+  {
+   "canonical": "卡吕冬之子",
+   "type": "faction",
+   "pinyin": "ka lv dong zhi zi",
+   "aliases": []
+  },
+  {
+   "canonical": "反舌鸟",
+   "type": "faction",
+   "pinyin": "fan she niao",
+   "aliases": []
+  },
+  {
+   "canonical": "坎卜斯黑枝",
+   "type": "faction",
+   "pinyin": "kan bo si hei zhi",
+   "aliases": []
+  },
+  {
+   "canonical": "天琴座",
+   "type": "faction",
+   "pinyin": "tian qin zuo",
+   "aliases": []
+  },
+  {
+   "canonical": "妄想天使",
+   "type": "faction",
+   "pinyin": "wang xiang tian shi",
+   "aliases": []
+  },
+  {
+   "canonical": "对空六课",
+   "type": "faction",
+   "pinyin": "dui kong liu ke",
+   "aliases": []
+  },
+  {
+   "canonical": "怪啖屋",
+   "type": "faction",
+   "pinyin": "guai dan wu",
+   "aliases": []
+  },
+  {
+   "canonical": "治安局·刑侦特勤组",
+   "type": "faction",
+   "pinyin": "zhi an ju · xing zhen te qin zu",
+   "aliases": []
+  },
+  {
+   "canonical": "治安局·都市秩序部",
+   "type": "faction",
+   "pinyin": "zhi an ju · du shi zhi xu bu",
+   "aliases": []
+  },
+  {
+   "canonical": "法厄同",
+   "type": "faction",
+   "pinyin": "fa e tong",
+   "aliases": []
+  },
+  {
+   "canonical": "狡兔屋",
+   "type": "faction",
+   "pinyin": "jiao tu wu",
+   "aliases": []
+  },
+  {
+   "canonical": "白祇重工",
+   "type": "faction",
+   "pinyin": "bai qi zhong gong",
+   "aliases": []
+  },
+  {
+   "canonical": "维多利亚家政",
+   "type": "faction",
+   "pinyin": "wei duo li ya jia zheng",
+   "aliases": []
+  },
+  {
+   "canonical": "罗斯凯利法·外务筹策局",
+   "type": "faction",
+   "pinyin": "luo si kai li fa · wai wu chou ce ju",
+   "aliases": []
+  },
+  {
+   "canonical": "罗斯凯利法·弗林特工坊",
+   "type": "faction",
+   "pinyin": "luo si kai li fa · fu lin te gong fang",
+   "aliases": []
+  },
+  {
+   "canonical": "罗斯凯利法·空域巡戍局",
+   "type": "faction",
+   "pinyin": "luo si kai li fa · kong yu xun shu ju",
+   "aliases": []
+  },
+  {
+   "canonical": "达识结社",
+   "type": "faction",
+   "pinyin": "da shi jie she",
+   "aliases": []
+  },
+  {
+   "canonical": "防卫军·奥波勒斯小队",
+   "type": "faction",
+   "pinyin": "fang wei jun · ao bo lei si xiao dui",
+   "aliases": []
+  },
+  {
+   "canonical": "防卫军·白银小队",
+   "type": "faction",
+   "pinyin": "fang wei jun · bai yin xiao dui",
+   "aliases": []
+  }
+ ],
+ "terms": [
+  {
+   "canonical": "Fairy",
+   "type": "term",
+   "pinyin": "Fairy",
+   "aliases": []
+  },
+  {
+   "canonical": "HDD",
+   "type": "term",
+   "pinyin": "HDD",
+   "aliases": []
+  },
+  {
+   "canonical": "TOPS",
+   "type": "term",
+   "pinyin": "TOPS",
+   "aliases": []
+  },
+  {
+   "canonical": "以太",
+   "type": "term",
+   "pinyin": "yi tai",
+   "aliases": []
+  },
+  {
+   "canonical": "以骸",
+   "type": "term",
+   "pinyin": "yi hai",
+   "aliases": []
+  },
+  {
+   "canonical": "伴生空洞",
+   "type": "term",
+   "pinyin": "ban sheng kong dong",
+   "aliases": []
+  },
+  {
+   "canonical": "侵蚀体",
+   "type": "term",
+   "pinyin": "qin shi ti",
+   "aliases": []
+  },
+  {
+   "canonical": "侵蚀效应",
+   "type": "term",
+   "pinyin": "qin shi xiao ying",
+   "aliases": []
+  },
+  {
+   "canonical": "六分街",
+   "type": "term",
+   "pinyin": "liu fen jie",
+   "aliases": []
+  },
+  {
+   "canonical": "刑侦特勤组",
+   "type": "term",
+   "pinyin": "xing zhen te qin zu",
+   "aliases": []
+  },
+  {
+   "canonical": "卫非地",
+   "type": "term",
+   "pinyin": "wei fei di",
+   "aliases": []
+  },
+  {
+   "canonical": "奥波勒斯小队",
+   "type": "term",
+   "pinyin": "ao bo lei si xiao dui",
+   "aliases": []
+  },
+  {
+   "canonical": "对空六课",
+   "type": "term",
+   "pinyin": "dui kong liu ke",
+   "aliases": []
+  },
+  {
+   "canonical": "怀斯塔学会",
+   "type": "term",
+   "pinyin": "huai si ta xue hui",
+   "aliases": []
+  },
+  {
+   "canonical": "新艾利都",
+   "type": "term",
+   "pinyin": "xin ai li dou",
+   "aliases": []
+  },
+  {
+   "canonical": "旧都",
+   "type": "term",
+   "pinyin": "jiu du",
+   "aliases": []
+  },
+  {
+   "canonical": "治安局",
+   "type": "term",
+   "pinyin": "zhi an ju",
+   "aliases": []
+  },
+  {
+   "canonical": "法厄同",
+   "type": "term",
+   "pinyin": "fa e tong",
+   "aliases": []
+  },
+  {
+   "canonical": "盗洞客",
+   "type": "term",
+   "pinyin": "dao dong ke",
+   "aliases": []
+  },
+  {
+   "canonical": "空洞",
+   "type": "term",
+   "pinyin": "kong dong",
+   "aliases": []
+  },
+  {
+   "canonical": "空洞六课",
+   "type": "term",
+   "pinyin": "kong dong liu ke",
+   "aliases": []
+  },
+  {
+   "canonical": "空洞调查协会",
+   "type": "term",
+   "pinyin": "kong dong diao cha xie hui",
+   "aliases": []
+  },
+  {
+   "canonical": "空洞调查员",
+   "type": "term",
+   "pinyin": "kong dong diao cha yuan",
+   "aliases": []
+  },
+  {
+   "canonical": "绳匠",
+   "type": "term",
+   "pinyin": "sheng jiang",
+   "aliases": []
+  },
+  {
+   "canonical": "绳网",
+   "type": "term",
+   "pinyin": "sheng wang",
+   "aliases": []
+  },
+  {
+   "canonical": "罗塞塔数据",
+   "type": "term",
+   "pinyin": "luo sai ta shu ju",
+   "aliases": []
+  },
+  {
+   "canonical": "萝卜",
+   "type": "term",
+   "pinyin": "luo bo",
+   "aliases": []
+  },
+  {
+   "canonical": "远景实业",
+   "type": "term",
+   "pinyin": "yuan jing shi ye",
+   "aliases": []
+  },
+  {
+   "canonical": "邦布",
+   "type": "term",
+   "pinyin": "bang bu",
+   "aliases": []
+  },
+  {
+   "canonical": "零号空洞",
+   "type": "term",
+   "pinyin": "ling hao kong dong",
+   "aliases": []
+  },
+  {
+   "canonical": "音擎",
+   "type": "term",
+   "pinyin": "yin qing",
+   "aliases": []
+  },
+  {
+   "canonical": "驱动盘",
+   "type": "term",
+   "pinyin": "qu dong pan",
+   "aliases": []
+  }
+ ]
+}
